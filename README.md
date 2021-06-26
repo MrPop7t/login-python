@@ -1,2 +1,3 @@
-# login-python
- Login Screen with Python
+Login Screen with Py
+
+pip install py
